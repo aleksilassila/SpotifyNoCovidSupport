@@ -1,0 +1,9 @@
+Package: me.aleksilassila.spotifynocovidsupport
+Name: SpotifyNoCovidSupport
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove covid support link from artist page in Spotify
+Maintainer: Aleksi Lassila
+Author: Aleksi Lassila
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
